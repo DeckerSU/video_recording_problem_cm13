@@ -80,3 +80,12 @@ Log:
 - Лог из стоковой прошивки - videoenc_stock.txt.
 
 Любые советы на тему как починить запись видео, с использованием MTK кодеков или без них - приветствуются.
+
+Полезные ссылки:
+
+- https://github.com/xen0n/android_device_meizu_arale/issues/17
+- https://github.com/fire855/android_frameworks_av-mtk/commits/cm-13.0-mt6592
+- https://github.com/xen0n/android_frameworks_av_mtk/commit/0e8649c
+- https://github.com/xen0n/android_frameworks_av_mtk/commit/15b8851
+- https://github.com/xen0n/android_frameworks_av_mtk/commit/9fd6fc6
+
